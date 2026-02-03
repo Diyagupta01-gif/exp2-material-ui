@@ -82,14 +82,14 @@ The experiment is divided into **three parts**:
 
 ![Landing Page](screenshots/landing-page.png)
 
-### 2. Dashboard Layout
+### 2. Dashboard Layout<img width="1470" height="956" alt="Screenshot 2026-02-03 at 12 27 11 PM" src="https://github.com/user-attachments/assets/d1a946f9-3bd0-4571-a67b-dba5d4aea336" />
+
 ![Dashboard](screenshots/dashboard.png)
 
-### 3. Admin Panel (Light Mode)
-![Admin Light](screenshots/admin-light.png)
 
 ### 4. Admin Panel (Dark Mode)
 ![Admin Dark](screenshots/admin-dark.png)
+![Uploading Screenshot 2026-02-03 at 12.27.33 PM.png…]()
 
 ---
 
