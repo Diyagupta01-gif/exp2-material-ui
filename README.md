@@ -1,70 +1,100 @@
-# Getting Started with Create React App
+# Experiment 2 – Responsive UI using Material UI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Student Details
+- **Name:** Diya Gupta  
+- **UID:** 23BDA70212  
+- **Course:** Full Stack Development  
+- **Experiment No:** 2  
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Aim
+To design and implement a fully responsive user interface using **Material UI (MUI)** components and styled layouts in **React**.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies Used
+- React.js
+- Material UI (MUI)
+- JavaScript
+- HTML & CSS
+- Node.js
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## Experiment Description
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This experiment demonstrates how **Material UI** can be used to create modern, responsive, and visually appealing user interfaces.  
+The experiment is divided into **three parts**:
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Part (a): Responsive Landing Page
+- Implemented using **Container, Grid, Typography**
+- Layout stacks vertically on mobile screens
+- Sections appear side-by-side on larger screens using breakpoints
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Output:
+- Fully responsive landing page
+- Clean and simple layout
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+📸 *Screenshot added below*
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Part (b): Dashboard Layout
+- Responsive **Top Navigation Bar (AppBar)**
+- **Sidebar (Drawer)** for navigation
+- **Card Grid** that automatically adjusts:
+  - Mobile → 1 card per row
+  - Tablet → 2 cards per row
+  - Desktop → 3 cards per row
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+📸 *Screenshot added below*
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Part (c): Admin Panel with Light/Dark Theme
+- Implemented using **ThemeProvider**
+- Light / Dark mode toggle button
+- Styled overrides applied to:
+  - AppBar
+  - Button
+  - Card
+- Multi-panel layout collapses into a single column on mobile screens
 
-## Learn More
+📸 *Screenshot added below*
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Features
+- Fully responsive design
+- Modern UI using Material Design principles
+- Theme switching (Light / Dark mode)
+- Reusable and clean component structure
+- Cross-device compatibility
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Screenshots
 
-### Analyzing the Bundle Size
+### 1. Responsive Landing Page<img width="1470" height="956" alt="Screenshot 2026-02-03 at 12 25 52 PM" src="https://github.com/user-attachments/assets/934de41f-72f2-46c9-a91b-ba826572dab9" />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![Landing Page](screenshots/landing-page.png)
 
-### Making a Progressive Web App
+### 2. Dashboard Layout
+![Dashboard](screenshots/dashboard.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### 3. Admin Panel (Light Mode)
+![Admin Light](screenshots/admin-light.png)
 
-### Advanced Configuration
+### 4. Admin Panel (Dark Mode)
+![Admin Dark](screenshots/admin-dark.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## How to Run the Project
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Diyagupta01-gif/exp2-material-ui.git
