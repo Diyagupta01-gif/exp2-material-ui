@@ -87,9 +87,6 @@ The experiment is divided into **three parts**:
 ![Dashboard](screenshots/dashboard.png)
 
 
-### 4. Admin Panel (Dark Mode)
-![Admin Dark](screenshots/admin-dark.png)
-![Uploading Screenshot 2026-02-03 at 12.27.33 PM.png…]()
 
 ---
 
